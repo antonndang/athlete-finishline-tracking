@@ -1,3 +1,6 @@
+# Demo the result:
+https://github.com/user-attachments/assets/7854435d-d2ee-41d1-9d1f-df63a80b5c1a
+
 # Tracking and Detecting the Winner in a Running Race 🏁
 
 I trained a computer vision model using datasets collected from Roboflow to detect and track athletes in 100 meter videos. The system leverages YOLOv8 for fast and accurate runner detection, and ByteTrack to assign and follow unique IDs for each athlete throughout the race.
