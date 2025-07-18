@@ -1,6 +1,0 @@
-names:
-- person
-nc: 1
-test: /Users/anton/PycharmProjects/100WinnerTracking/RunningDatasets/combined_running_dataset/test/images
-train: /Users/anton/PycharmProjects/100WinnerTracking/RunningDatasets/combined_running_dataset/train/images
-val: /Users/anton/PycharmProjects/100WinnerTracking/RunningDatasets/combined_running_dataset/valid/images
