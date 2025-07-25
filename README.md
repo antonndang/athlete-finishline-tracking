@@ -1,4 +1,4 @@
-## Demo the result:
+## Demo live here:
 **[▶️ Watch Demo Video](https://youtube.com/shorts/2EyiWsIqZL4?feature=share)**
 
 # Tracking and Detecting the Winner in a Running Race 🏁
